@@ -1,0 +1,22 @@
+ĐỀ KIỂM TRA MẪU
+
+Câu 1. Thủ đô của Việt Nam là?
+A. Huế
+B. Hà Nội
+C. Đà Nẵng
+D. Cần Thơ
+Đáp án: B
+
+Câu 2. Giá trị của 2 + 3 × 4 là? (0,5 điểm)
+A. 20 B. 14 C. 24 D. 9
+Đáp án: B
+
+Câu 3. Cho các phát biểu về số nguyên tố:
+a) 2 là số nguyên tố chẵn duy nhất.
+b) 9 là số nguyên tố.
+c) 7 là số nguyên tố.
+d) 1 là số nguyên tố.
+Đáp án: a-Đ, b-S, c-Đ, d-S
+
+Câu 4. Chứng minh rằng căn bậc hai của 2 là số vô tỉ. (2 điểm)
+Lời giải: Dùng phản chứng, giả sử căn 2 = p/q tối giản...
